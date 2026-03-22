@@ -79,7 +79,8 @@ UK (87% of customers) converts at 46.5% while France (52.9%) and Germany
 
 ## Visualizations
 
-![Funnel Analysis](funnel_analysis.png)
+<img width="1589" height="1217" alt="download" src="https://github.com/user-attachments/assets/0c884368-9e59-401c-88b2-e94268c8d0f1" />
+
 
 ---
 
